@@ -1,6 +1,6 @@
 # Power BI Dashboard Project: Global Superstore Analysis
 
-![Dashboard Image]()
+![Dashboard Image](https://github.com/priyanshhv/-Global-Superstore-Analysis/blob/main/Screenshot%202024-11-02%20010711.png)
 
 ## Project Overview
 
